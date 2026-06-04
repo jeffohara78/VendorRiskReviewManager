@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\obj\Debug\net8.0\VendorRiskReviewManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\obj\Debug\net8.0\VendorRiskReviewManager.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\obj\Debug\net8.0\VendorRiskReviewManager.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\obj\Debug\net8.0\VendorRiskReviewManager.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\bin\Debug\net8.0\VendorRiskReviewManager.exe
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\bin\Debug\net8.0\VendorRiskReviewManager.deps.json
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\bin\Debug\net8.0\VendorRiskReviewManager.runtimeconfig.json
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\bin\Debug\net8.0\VendorRiskReviewManager.dll
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\bin\Debug\net8.0\VendorRiskReviewManager.pdb
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\obj\Debug\net8.0\VendorRiskReviewManager.dll
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\obj\Debug\net8.0\refint\VendorRiskReviewManager.dll
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\obj\Debug\net8.0\VendorRiskReviewManager.pdb
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\obj\Debug\net8.0\VendorRiskReviewManager.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\VendorRiskReviewManager\VendorRiskReviewManager\obj\Debug\net8.0\ref\VendorRiskReviewManager.dll
